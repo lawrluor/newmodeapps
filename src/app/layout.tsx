@@ -6,8 +6,8 @@ import "./globals.css";
 const arimo = Arimo({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Software Consulting Portfolio",
-  description: "Professional software consulting services and portfolio",
+  title: "New Mode Apps",
+  description: "software consulting by Lawrence Luo",
 };
 
 export default function RootLayout({
